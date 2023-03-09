@@ -1,0 +1,6 @@
+Q: As a developer, there are several web browser developer tools available to you. For example, there is a console tab that outputs JavaScript logs and errors from a web application. Which of the following statements are true? Choose all that apply.
+A: The Network tab allows you to inspect the timeline and details of HTTP requests and responses for a webpage, The Sources tab shows all content resolved for the current page and  The Memory tab displays the parts of your code that are consuming the most resources.
+
+Q: An integrated development environment, or IDE, is software for building applications. This kind of software application has many different features to help you as a developer. Which of the following statements are true? Choose all that apply.
+
+A: Special keywords of the programming language are highlighted in different colors to make the code easier to read, IDEs have a feature called Error Highlighting and IDEs have a feature that can detect variables and functions and offer them as suggestions during autocomplete. 
